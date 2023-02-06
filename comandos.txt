@@ -8,3 +8,7 @@ Dizer ao computador que ele/uma pasta será controlado pelo Git:
 git init
 
 git status
+
+git add
+
+git commit -m (git commit -m "criação do arquivo com códigos git")
