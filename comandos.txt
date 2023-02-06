@@ -1,0 +1,10 @@
+Comandos Git:
+
+git config --global user.name "Matheus e Enzo"
+git config --global user.email "matheus.silva2506@etec.sp.gov.br"
+
+Dizer ao computador que ele/uma pasta será controlado pelo Git:
+
+git init
+
+git status
