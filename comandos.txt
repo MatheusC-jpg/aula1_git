@@ -17,3 +17,5 @@ git commit -m (git commit -m "criação do arquivo com códigos git")
 
 Token:
 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
+
+IDE: Ambiente de desenvolvimento integrado
