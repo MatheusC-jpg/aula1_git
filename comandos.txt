@@ -19,3 +19,5 @@ Token:
 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
 
 IDE: Ambiente de desenvolvimento integrado
+
+procedural -> eventos -> objetos
